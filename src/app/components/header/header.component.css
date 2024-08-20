@@ -1,0 +1,19 @@
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+}
+
+.nav-link:hover {
+  color: #ff5722;
+}
+
+.header-logo {
+  max-height: 10%;
+  max-width: 10%;
+  height: auto;
+}
