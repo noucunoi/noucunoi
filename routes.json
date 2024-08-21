@@ -3,6 +3,11 @@
     "from": "/",
     "to": "/index.html"
   },
+
+  {
+    "from": "*",
+    "to": "/browser/index.html"
+  },
   {
     "from": "/page-top",
     "to": "/index.html#page-top"
