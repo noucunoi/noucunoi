@@ -1,0 +1,26 @@
+[
+  {
+    "from": "/",
+    "to": "/index.html"
+  },
+  {
+    "from": "/page-top",
+    "to": "/index.html#page-top"
+  },
+  {
+    "from": "/about",
+    "to": "/index.html#about"
+  },
+  {
+    "from": "/services",
+    "to": "/index.html#services"
+  },
+  {
+    "from": "/experience",
+    "to": "/index.html#experience"
+  },
+  {
+    "from": "/contact",
+    "to": "/index.html#contact"
+  }
+]
