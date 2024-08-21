@@ -17,3 +17,10 @@
   max-width: 10%;
   height: auto;
 }
+
+@media (max-width: 768px) {
+  .header-logo {
+    max-height: 15%;
+    max-width: 15%;
+  }
+}
